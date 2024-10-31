@@ -1,8 +1,8 @@
-# Fontes de dados
+# Fontes de Dados
 
 ## IBGE - Produção Agrícola Municipal
 
-![IBGE - Produção Agrícola Municipal](../../assets/IBGE_PAM.jpg)
+![IBGE - Produção Agrícola Municipal](../assets/IBGE_PAM.jpg)
 
 A fonte de dados da **[Pesquisa Agrícola Municipal](https://sidra.ibge.gov.br/pesquisa/pam/tabelas) (PAM) - 2023** é uma base estatística gerada pelo IBGE que visa fornecer informações detalhadas sobre a produção agrícola no Brasil, incluindo quantidade produzida, área plantada e colhida, rendimento médio e valor da produção.
 
@@ -49,31 +49,31 @@ O Sistema IBGE de Recuperação Automática (SIDRA) é uma plataforma que permit
 
 1. Acesse a [tabela](https://sidra.ibge.gov.br/tabela/1612) no SIDRA.
 
-   ![SIDRA - Acesso à Tabela](../../assets/SIDRA.jpg)
+   ![SIDRA - Acesso à Tabela](../assets/SIDRA.jpg)
 
 2. Selecione as variáveis desejadas
 
-   ![SIDRA - Seleção de Variáveis](../../assets/SIDRA_variaveis.jpg)
+   ![SIDRA - Seleção de Variáveis](../assets/SIDRA_variaveis.jpg)
 
 3. Selecione as culturas desejadas
 
-   ![SIDRA - Seleção de Culturas](../../assets/SIDRA_culturas.jpg)
+   ![SIDRA - Seleção de Culturas](../assets/SIDRA_culturas.jpg)
 
 4. Selecione os anos desejados
 
-   ![SIDRA - Seleção de Anos](../../assets/SIDRA_anos.jpg)
+   ![SIDRA - Seleção de Anos](../assets/SIDRA_anos.jpg)
 
 5. Selecione as áreas desejadas
 
-   ![SIDRA - Seleção de Áreas](../../assets/SIDRA_areas.jpg)
+   ![SIDRA - Seleção de Áreas](../assets/SIDRA_areas.jpg)
 
 6. Clique em "Download"
 
-   ![SIDRA - Confirmação de Download](../../assets/SIDRA_confirma.jpg)
+   ![SIDRA - Confirmação de Download](../assets/SIDRA_confirma.jpg)
 
 7. Escolha a formatação e clique em "Download"
 
-   ![SIDRA - Opções de Download](../../assets/SIDRA_download.jpg)
+   ![SIDRA - Opções de Download](../assets/SIDRA_download.jpg)
 
 ---
 
@@ -112,3 +112,7 @@ Utilizando as seguintes configurações, podemos produzir o arquivo tabela1612.x
   - Brasil
   - Todas as unidades da federação
 gurações selecionadas
+
+---
+
+Voltar ao [README](/README.md)

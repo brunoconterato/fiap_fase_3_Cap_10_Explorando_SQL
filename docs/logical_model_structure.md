@@ -57,3 +57,7 @@
 - **CurrencyChanges to Currencies**: many_to_one
 - **Productions to States**: many_to_one
 - **Productions to Crops**: many_to_one
+
+---
+
+Voltar ao [README](/README.md)

@@ -31,8 +31,8 @@
      - [x] Description of the created data model.
      - [x] Details of key model components (entities, relationships, and fields).
 
-9. **Prepare Deliverables**
-   - [ ] Create and finalize the following deliverables:
+9. **Delivery**
+   - [x] Create and finalize the following deliverables:
      - [x] Entity-Relationship Diagram (ERM).
      - [x] Relational Model Diagram.
      - [x] SQL code file (.sql) for table creation.
@@ -40,4 +40,9 @@
      - [x] Data Dictionary.
      - [x] README.md documentation.
      - [x] PNG image of the relational model.
-     - [ ] GitHub repository containing all the above files.
+     - [x] GitHub repository containing all the above files.
+   - [ ] Deliver.
+
+---
+
+Voltar ao [README](/README.md)

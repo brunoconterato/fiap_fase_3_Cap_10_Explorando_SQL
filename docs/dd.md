@@ -77,4 +77,6 @@
 * **Tempo de Retenção:** Define por quanto tempo os dados devem ser mantidos no banco de dados. 
 * **Rotina de Limpeza:** Detalhe como os dados devem ser limpos ou atualizados periodicamente.  
 
+---
 
+Voltar ao [README](/README.md)

@@ -53,3 +53,7 @@
 3. **Moeda e Troca de Moeda**: Um-para-Muitos
    - Uma **Moeda** pode ser objeto de várias trocas ao longo do tempo.
    - Cada registro de **Troca de Moeda** está associado a uma Moeda específica.
+
+---
+
+Voltar ao [README](/README.md)
