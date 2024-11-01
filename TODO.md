@@ -41,7 +41,7 @@
      - [x] README.md documentation.
      - [x] PNG image of the relational model.
      - [x] GitHub repository containing all the above files.
-   - [ ] Deliver.
+   - [x] Submit a GitHub repository link containing `.xml` and `.sql` and/or `.dmd` files for modeling, along with a `README.md` file for documentation and a `.png` image of the model.
 
 ---
 
